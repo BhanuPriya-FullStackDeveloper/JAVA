@@ -1,4 +1,4 @@
 # JAVA
 This is my first repository
 <br>
-<h1>JAVA is an Object Oriented Language.</h1>
+<h3>JAVA is an Object Oriented Language.</h3>
